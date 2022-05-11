@@ -18,5 +18,5 @@ I included an example in the "main" part of the code, but if you have any questi
 After running this function, you are supposed to attenuate shading in a skin lesion image, i.e. from this
 ![alt text](skin_lesion.jpg?raw=true)
 
-to this
-![alt text](new_skin.lesion.png?raw=true)
+to this  
+![alt text](new_skin_lesion.png?raw=true)
